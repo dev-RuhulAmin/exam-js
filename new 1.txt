@@ -1,0 +1,8 @@
+1. Take a function getFactorial(), and calculate the value of any numbers of factorial. must, you should take value from user.
+
+2. Take a Function largestNumber(), Then, Find a leargest number from a Arrray'
+3. Write the code to use h1, p tag. you should introduce yourself . for every part, you need to show diffirent text when mouseover on that text as a title.
+
+4. make a dropdown calculator:
+
+05. what is the 5 way to find out html tag, create a html tag and store some text, And also you have to add a class or id from a external css file.
